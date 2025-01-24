@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Hide Instagram Seen and Story Seen",
+    "version": "1.0.0",
+    "description": "A Chrome extension to block 'seen' notifications in Instagram messages and stories.",
+    "permissions": ["scripting"],
+    "host_permissions": ["https://*.instagram.com/*"],
+    "content_scripts": [
+      {
+        "matches": ["https://*.instagram.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_end"
+      }
+    ]
+  }
+  
