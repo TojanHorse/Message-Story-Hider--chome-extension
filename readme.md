@@ -17,7 +17,7 @@ Download this repository as a ZIP file or clone it using
 bash
 Copy
 Edit
-git clone <repository_url>
+git clone <https://github.com/TojanHorse/Message-Story-Hider--chome-extension.git>
 Extract the contents if downloaded as a ZIP.
 Open Chrome Extensions Page
 ```
