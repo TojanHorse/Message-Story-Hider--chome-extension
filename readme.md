@@ -1,4 +1,4 @@
-# Foobar
+# About
 
 Hide Instagram Seen and Story Seen Notifications
 A Chrome extension to block Instagram's "seen" notifications for direct messages and stories. This ensures your activity remains private while using Instagram.
